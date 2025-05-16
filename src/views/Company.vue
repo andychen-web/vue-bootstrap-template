@@ -3,12 +3,7 @@
 </template>
 
 <script setup>
-import {getJobs,
-getJobById,
-getCompanies,
-getCompanyById} from "./jobListing"
-
-import {onMounted}
+import { getJobs, getJobById, getCompanies, getCompanyById } from "../api/jobListing";
 </script>
 
 <style lang="scss" scoped></style>
