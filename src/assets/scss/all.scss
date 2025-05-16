@@ -1,0 +1,6 @@
+@import "bootstrap/scss/functions";
+@import "./utilities/_variables.scss"; // 客製variables
+@import "bootstrap/scss/bootstrap";
+@import "./base/_base.scss";
+
+@import "./components/_navbar.scss";
